@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-papua-new-guinea-national-cricket-team-cricket-wor-baseball-player-5a92340e349389.0907828515195310222154.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-papua-new-guinea-national-cricket-team-cricket-wor-baseball-player-5a92340e349389.0907828515195310222154@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-papua-new-guinea-national-cricket-team-cricket-wor-baseball-player-5a92340e349389.0907828515195310222154@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
